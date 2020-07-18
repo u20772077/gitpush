@@ -1,0 +1,33 @@
+The tangent and subtended angle theorem states that, The angle between a tanget and a chord to a circle is equal to the angle which the chord subtends in the alternate sigment.
+
+An angle is the space (usually measured in degrees) between two intersecting lines or surfaces at or close to the point where they meet.
+
+A tangent is a line or plane that touches a circle or curve at one point.
+
+A chord is a straight line joining the ends of an arc.
+
+A construction is to draw or delineate (a geometrical figure) accurately to given conditions.
+
+angles and chord relationship : Angles subtentded by the same chord are equal( A lemma ).
+
+
+A lemma is a subsidiary or intermediate theorem in an argument or proof.
+
+A theoem is a proposition or rule in mathematics proved by a chain of reasoning.
+
+
+
+
+First of tan,  The Idea here really is to prove that angle x  = angle y ,First start by construction,That is draw a straight line passing throught the origin O to a point on the circumference C ,and a line from B to C. This makes a new angle, call it z.
+
+Second line of tan line thrm : Now ,let angle(OAB) be a ,OCB be z. From  a lemma, OAT  = 90 (reason : straight line from origin perpendicular to tangent).
+
+Third tan : From the previous statement we can say a + x = 90 , which simply implies x = 90 - a.
+
+fourth  tan : Now , triangle ABC ( sum of interior angles  = 180), which means a + z + n = 180. But then,  n = 90( reason: an angle subtended by the diameter equals 90).
+
+fifth  tan: Following this argument , we can say z + a = 90 ( see z + a + 90 = 180). Which then implies that  z = 90 - a . 
+
+sixth tan: We have z = 90 - a , and  x = 90 - a. This then shows x = z. 
+
+seventh tan By lemma : An angle subtended by the same chord or arc are are equal. In this case z = y. which then completes our proof ,Fun logic ,mathematics is great.    

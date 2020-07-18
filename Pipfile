@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+
+[packages]
+tkinter = "*"
+pyinstaller = "*"
+tkmessagebox = "*"
+pandas = "*"
+matplotlib = "*"
+tensorflow = "*"
+keras = "*"
+speechrecognition = "*"
+js2py = "*"
+nltk = "*"
+pyttsx3 = "*"
+sklearn = "*"
+numpy = "*"
+zipfile = "*"
+cv2 = "*"
+
+[requires]
+python_version = "3.7"

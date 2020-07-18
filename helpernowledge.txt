@@ -1,0 +1,8 @@
+
+
+first line recovery: A subtend simply means a stretch made by lines intersectidng at a point, The tangent chord Theorem wants to prove that an an angle between two lines stretched by chord is equal to the anle between a tangentand that chord streching the lines.
+
+a + x = 90 recovery : this folllows from thefact that OAT makes a 90 degrees angle ,and a together with x makes OAT.
+
+sum of interior angles property states that <ABC + <ACB +<CAB = 180 , for triangle ABC.
+
